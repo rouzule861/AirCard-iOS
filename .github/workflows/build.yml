@@ -25,3 +25,5 @@ jobs:
         with:
           name: AirCard-iOS-IPA
           path: build/AirCard-iOS.ipa
+
+# Workflow refreshed
